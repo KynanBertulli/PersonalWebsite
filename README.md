@@ -6,5 +6,11 @@ Description:
 • HTML/CSS/JavaScript<br>
 • Vim/ Bash commands<br>
 • Sass/Compass and BootStrap designing <br>
-•  <br>
+ <br>
 
+To Do:
+• find host<br>
+• buy domain<br>
+• organize structure<br>
+<p>     Home </p><br>
+ <br>
